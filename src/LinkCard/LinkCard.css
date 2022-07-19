@@ -1,0 +1,58 @@
+.container-link-handle{
+    display: flex;
+    margin-bottom: 0px;
+ 
+
+}
+.handle-name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card-img{
+    height: 60px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 2px 2px 3px 0px rgb(81, 77, 77);
+}
+.linkcard{
+ 
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 6px 5px 2px 0px rgb(90, 85, 85);
+    cursor: pointer;
+
+
+}
+.handle-description{
+    margin-top: -20px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+.bg-twitter{
+    background: radial-gradient(circle, rgb(21, 11, 59) 0%, rgb(17, 159, 248) 100%);
+}
+
+.bg-github{
+    background: radial-gradient(circle, rgb(31, 37, 31) 0%, rgb(138, 143, 148) 100%);
+}
+
+.bg-facebook{
+    background: radial-gradient(circle,  rgb(4, 4, 180) 0%, rgb(98, 225, 239) 100%);
+}
+.bg-instagram{
+    background: radial-gradient(circle, rgb(244, 20, 0) 0%, rgb(250, 203, 86) 100%);
+}
+.username{
+    font-size: 30px;
+    margin-left: 20px;
+   
+}
+.hyperlink{
+    text-decoration: none;
+    color: black;
+}

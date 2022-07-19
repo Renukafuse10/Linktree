@@ -1,0 +1,17 @@
+.container{
+  border: 5px double rgb(48, 11, 83);
+  margin: 50px;
+
+}
+.app-head{
+  text-align: center;
+  background-color: rgb(51, 7, 93);
+  color: white;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 7px 3px 0px rgb(249, 166, 249);
+ 
+}
